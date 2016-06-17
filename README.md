@@ -19,6 +19,7 @@ Bookmarklets:
 
 * [onliner-usd-price.bookmarklet.js](https://gist.github.com/phts/70edee69d0445f4d71ff)
 * [tut-by-youtube-links.bookmarklet.js](https://gist.github.com/phts/42c76861833b2f22131c)
+* [quiz-solver.bookmarklet.js](https://gist.github.com/phts/69d8f50223030fc2cac189184daf2476)
 
 Bash scripts:
 
@@ -43,9 +44,3 @@ Etc:
 
 * [fixed_playcount_sync.js](https://gist.github.com/phts/6b41ddcc5566605fbf8b)
 * [untrusted-lvl1-solution.js](https://gist.github.com/phts/45d344fa918bfc722f04)
-
-
-
-
-
-
