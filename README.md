@@ -20,6 +20,7 @@ Bookmarklets:
 * [onliner-usd-price.bookmarklet.js](https://gist.github.com/phts/70edee69d0445f4d71ff)
 * [tut-by-youtube-links.bookmarklet.js](https://gist.github.com/phts/42c76861833b2f22131c)
 * [quiz-solver.bookmarklet.js](https://gist.github.com/phts/69d8f50223030fc2cac189184daf2476)
+* [gmail-headless-print.bookmarklet.js](https://gist.github.com/phts/15ad2470f1d094dec32d05c951645b3d)
 
 Bash scripts:
 
