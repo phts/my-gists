@@ -2,6 +2,8 @@
 
 This is a list of [my gists](https://gist.github.com/phts) in a readable format because the site doesn't allow to organize them anyhow.
 
+## gist.github.com
+
 User styles:
 
 * [web-skype-com.user.css](https://gist.github.com/phts/1707468cc9ec04e22550)
@@ -45,3 +47,7 @@ Etc:
 
 * [fixed_playcount_sync.js](https://gist.github.com/phts/6b41ddcc5566605fbf8b)
 * [untrusted-lvl1-solution.js](https://gist.github.com/phts/45d344fa918bfc722f04)
+
+## jsfiddle.net
+
+* [ZX Spectrum loading screen](https://jsfiddle.net/phts/5mrm2yrj/)
