@@ -15,9 +15,9 @@ User styles:
 
 User scripts:
 
-* [owa-notifications.user.js](https://gist.github.com/phts/3e594431aa0437f39e0f)
-* [onliner-usd-price.user.js](https://gist.github.com/phts/b7d7e0e5ead60066e38ba11af4eb1468)
-* [onliner-up.user.js ](https://gist.github.com/phts/3684812cdcfe8674b06775df1c458c1d)
+* [owa-notifications.user.js](https://gist.github.com/phts/3e594431aa0437f39e0f) [[Install](https://gist.githubusercontent.com/phts/3e594431aa0437f39e0f/raw/owa-notifications.user.js)]
+* [onliner-usd-price.user.js](https://gist.github.com/phts/b7d7e0e5ead60066e38ba11af4eb1468) [[Install](https://gist.githubusercontent.com/phts/b7d7e0e5ead60066e38ba11af4eb1468/raw/onliner-usd-price.user.js)]
+* [onliner-up.user.js](https://gist.github.com/phts/3684812cdcfe8674b06775df1c458c1d) [[Install](https://gist.githubusercontent.com/phts/3684812cdcfe8674b06775df1c458c1d/raw/onliner-up.user.js)]
 
 Bookmarklets:
 
