@@ -6,12 +6,10 @@ This is a list of [my gists](https://gist.github.com/phts) in a readable format 
 
 User styles:
 
-* [web-skype-com.user.css](https://gist.github.com/phts/1707468cc9ec04e22550)
-* [bcse-by.user.css](https://gist.github.com/phts/a6efaf7506c185deff02)
-* [baraholka-onliner.user.css](https://gist.github.com/phts/304cc211acd43738d502)
-* [amazon-clouddrive.user.css](https://gist.github.com/phts/3567b4dbadf07b851409)
-* [booking-com.user.css](https://gist.github.com/phts/8a89214b1a19e165ce24)
-* [remove-ads-on-aliexpress.user.css](https://gist.github.com/phts/be98b00e584e44d752e9)
+* [fix-web-skype-com.user.css](https://gist.github.com/phts/1707468cc9ec04e22550) [[Install](https://gist.githubusercontent.com/phts/1707468cc9ec04e22550/raw/fix-web-skype-com.user.css)]
+* [clean-baraholka-onliner-by.user.css](https://gist.github.com/phts/304cc211acd43738d502) [[Install](https://gist.githubusercontent.com/phts/304cc211acd43738d502/raw/clean-baraholka-onliner-by.user.css)]
+* [clean-booking-com.user.css](https://gist.github.com/phts/8a89214b1a19e165ce24) [[Install](https://gist.githubusercontent.com/phts/8a89214b1a19e165ce24/raw/clean-booking-com.user.css)]
+* [clean-aliexpress-com.user.css](https://gist.github.com/phts/be98b00e584e44d752e9) [[Install](https://gist.githubusercontent.com/phts/be98b00e584e44d752e9/raw/clean-aliexpress-com.user.css)]
 
 User scripts:
 
